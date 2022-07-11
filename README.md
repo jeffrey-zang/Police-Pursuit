@@ -19,7 +19,6 @@ Have fun!
 image credits can be found in the image credits file
 
 Screenshots:
+![image](https://user-images.githubusercontent.com/66485719/178348494-787fa971-6353-4205-9080-08a77811315a.png)
 ![image](https://user-images.githubusercontent.com/66485719/178348151-171882b2-cf13-4783-bd1e-a6fcd98b34de.png)
-![image](https://user-images.githubusercontent.com/66485719/178348178-e70a7913-205e-4a97-a583-3f63740bb2de.png)
-![image](https://user-images.githubusercontent.com/66485719/178348237-daa15dde-61c1-4c3d-b3d5-24cbdad4b51d.png)
-![image](https://user-images.githubusercontent.com/66485719/178348363-6f65c46d-ffc0-469d-83c0-c9a71c2a405c.png)
+![image](https://user-images.githubusercontent.com/66485719/178348538-403b32f1-e4b5-40fa-b334-cbb078d99860.png)
