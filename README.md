@@ -1,6 +1,6 @@
 # Police Pursuit
 
-Entry in [PyWeek #31]  (<http://www.pyweek.org/30/>)
+Entry in [PyWeek #31](<http://www.pyweek.org/30/>)
 
 Theme: Cops
 
